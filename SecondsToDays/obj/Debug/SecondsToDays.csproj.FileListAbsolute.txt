@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\bin\Debug\SecondsToDays.exe.config
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\bin\Debug\SecondsToDays.exe
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\bin\Debug\SecondsToDays.pdb
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays_MarkupCompile.cache
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays_MarkupCompile.lref
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.g.resources
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.Properties.Resources.resources
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.exe
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\SecondsToDays.pdb
+C:\Users\User\source\repos\SecondsToDays\SecondsToDays\obj\Debug\App.baml
